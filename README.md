@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Machine learning Projects for practice from different sources like datacamp, packtpub, kaggle and coursera.
+# Machine-Learning- and Data Science Projects
+This repository consists of Machine learning and Data Science Projects.
